@@ -1,0 +1,4 @@
+myapp/models/Blog.class
+myapp/BlogSpringApplication.class
+myapp/repositories/BlogRepository.class
+myapp/controllers/BlogController.class
